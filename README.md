@@ -1,0 +1,1 @@
+This project explores algorithmic optimization and numerical simulation through two focused applications: optimizing routes for efficient vaccine distribution and modeling the spread of infectious diseases using the SIR model. It utilizes Python for implementing these concepts, leveraging mathematical models and simulations to solve real-world problems effectively.
